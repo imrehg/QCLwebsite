@@ -11,7 +11,6 @@ div#sidebar {
   position: absolute;
   top: 120px;
   width: 160px;
-  background: purple;
 }
 a.sidebar{
   text-decoration: none;
@@ -21,7 +20,7 @@ div#content {
   float: left;
   position: absolute;
   top: 15px;
-  left: 200px;
+  left: 170px;
   float: left;
   padding: 10px;
 }
