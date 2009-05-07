@@ -24,6 +24,9 @@ div#content {
   float: left;
   padding: 10px;
 }
+img {
+  border-style: none;
+}
 td.teamheader {
   font-weight: bold;
 }
