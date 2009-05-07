@@ -34,4 +34,30 @@ td.teamname {
   font-weight: normal;
   padding: 6px;
 }
+ol.pubitem {
+  counter-reset: item
+}
+li.pubitem {
+  display: block
+}
+li.pubitem:before {
+  content: counter(item) ". ";
+  counter-increment: item;
+  font-weight: bold;
+}
+td.publications {
+  padding: 5px;
+}
+span.pubauthor {
+  
+}
+span.pubtitle {
+  font-style: italic;
+}
+span.pubjournal {
+  
+}
+span.pubvolume {
+  font-weight: bold;
+}
 
