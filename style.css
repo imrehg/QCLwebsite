@@ -60,4 +60,6 @@ span.pubjournal {
 span.pubvolume {
   font-weight: bold;
 }
-
+td.bookcategory {
+  font-weight: bold;
+}
