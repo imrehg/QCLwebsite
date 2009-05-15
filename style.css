@@ -3,8 +3,7 @@ body {
 }
 img#logo {
   position: absolute;
-  top: 10px;
-  left: 20px;
+  left: 10px;
 }  
 div#sidebar {
   float: left;
@@ -16,9 +15,12 @@ div#header {
   float: left;
   position: absolute;
   top: 10px;
-  left: 170px;
+  left: 0px;
 }
 span.header {
+  position: absolute;
+  top: 20px;
+  left: 180px;
   font-size: x-large;
 }
 a.sidebar{
