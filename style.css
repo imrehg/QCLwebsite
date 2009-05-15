@@ -12,6 +12,15 @@ div#sidebar {
   top: 120px;
   width: 150px;
 }
+div#header {
+  float: left;
+  position: absolute;
+  top: 10px;
+  left: 170px;
+}
+span.header {
+  font-size: x-large;
+}
 a.sidebar{
   text-decoration: none;
   font-weight: bold;
