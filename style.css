@@ -9,6 +9,9 @@ div#sidebar {
   float: left;
   position: absolute;
   top: 120px;
+}
+iframe.sidebar {
+  height: 300px;
   width: 150px;
 }
 div#header {
@@ -16,6 +19,10 @@ div#header {
   position: absolute;
   top: 10px;
   left: 0px;
+}
+iframe.header {
+  width: 600px;
+  height: 100px;
 }
 span.header {
   position: absolute;
