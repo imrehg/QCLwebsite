@@ -81,3 +81,8 @@ span.pubvolume {
 td.bookcategory {
   font-weight: bold;
 }
+span#newsheader{
+  font-weight: bold;
+}
+span.newsitem{
+}
